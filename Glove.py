@@ -1,1 +1,1 @@
-class Glove:
+class Glove
